@@ -20,7 +20,7 @@ public static void main(String[] args) {
 	finally {
 		 b=5;
 			int c=a/b;
-			System.out.println(c);		Q	
+			System.out.println(c);	
 	}
 }
 }

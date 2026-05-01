@@ -2,7 +2,7 @@ package exceptionhandling;
 
 public class ThrowExample {
 	public static void main(String[] args) {
-		int age=29;
+		int age=9;
 		if(age>=18) {
 			
 			System.out.println("eligible for voting");
